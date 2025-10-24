@@ -68,7 +68,6 @@ Contenidos principales:
 ---
 
 ### 09 - Introducción a Jetpack Compose  
-**Semana:** del 13 al 17 de octubre  
 Contenidos principales:  
 - Ciclo de vida de los composables  
 - Estado y recomposición  
