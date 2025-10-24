@@ -7,7 +7,6 @@ Este repositorio reúne los ejercicios y materiales correspondientes a la asigna
 ## Planificación y contenidos
 
 ### 01 - Kotlin Imperativo  
-**Semana:** del 8 al 12 de septiembre  
 Contenidos principales:  
 - Sintaxis básica  
 - Funciones  
@@ -16,7 +15,6 @@ Contenidos principales:
 ---
 
 ### 02 - Kotlin Orientado a Objetos  
-**Semana:** del 15 al 19 de septiembre  
 Contenidos principales:  
 - Clases y objetos  
 - Herencia y polimorfismo  
@@ -25,7 +23,6 @@ Contenidos principales:
 ---
 
 ### 03 - Kotlin Funcional  
-**Semana:** del 22 al 26 de septiembre  
 Contenidos principales:  
 - Scope functions  
 - Funciones de orden superior  
@@ -34,14 +31,12 @@ Contenidos principales:
 ---
 
 ### 04 - Genéricos en Kotlin  
-**Semana:** del 22 al 26 de septiembre  
 Contenidos principales:  
 - Tipos y funciones genéricas  
 
 ---
 
 ### 05 - Contenedores y Secuencias  
-**Semana:** del 29 de septiembre al 5 de octubre  
 Contenidos principales:  
 - Colecciones en Kotlin  
 - Operaciones avanzadas sobre colecciones  
@@ -49,7 +44,6 @@ Contenidos principales:
 ---
 
 ### 06 - Builders y DSLs  
-**Semana:** del 29 de septiembre al 5 de octubre  
 Contenidos principales:  
 - Type-safe builders  
 - HTML Builder  
@@ -58,7 +52,6 @@ Contenidos principales:
 ---
 
 ### 07 - Introducción al desarrollo Android  
-**Semana:** del 6 al 10 de octubre  
 Contenidos principales:  
 - Android Studio IDE  
 - Gradle y estructura de proyectos  
@@ -67,7 +60,6 @@ Contenidos principales:
 ---
 
 ### 08 - Componentes Android: Activities y Recursos  
-**Semana:** del 6 al 10 de octubre  
 Contenidos principales:  
 - Application fundamentals  
 - Activities y manifiesto  
@@ -84,7 +76,6 @@ Contenidos principales:
 ---
 
 ### 10 - Compose: Modificadores y Layouts  
-**Semana:** del 13 al 17 de octubre  
 Contenidos principales:  
 - Modificadores  
 - Layouts en Compose  
@@ -92,7 +83,6 @@ Contenidos principales:
 ---
 
 ### 11 - Compose: Text y TextFields  
-**Semana:** del 20 al 24 de octubre  
 Contenidos principales:  
 - Textos en Compose  
 - Uso de tipografías y emojis  
